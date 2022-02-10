@@ -1,4 +1,4 @@
-# HARSH
+# HARSH RAJPUT
 ### I M A PROGRAMMER
 ###   SKILL 
 ### C || C++|| DSA|| HTML||CSS|| JAVASCRIPT
